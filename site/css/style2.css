@@ -1,0 +1,27 @@
+.navlien{
+
+}
+
+.logo{
+    align-items: center;
+}
+
+a{
+    text-decoration:none;
+}
+
+li{
+    list-style-type:none;
+}
+
+.nvbar{
+    background-color:white;
+}
+
+.imgcentre{
+    text-align:center;
+}
+
+.listecentre{
+    text-align:center;
+}
